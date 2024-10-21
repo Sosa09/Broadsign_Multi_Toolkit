@@ -16,7 +16,7 @@ namespace Broadsign_Multi_Toolkit
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        ;public MainWindow()
         {
             InitializeComponent();
         }

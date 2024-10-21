@@ -2,7 +2,7 @@
 {
     public interface IBroadsignModel
     {
-        string Name { get; }
+        string Name { get; set; }
         public string Id { get; set; }
     }
 }
