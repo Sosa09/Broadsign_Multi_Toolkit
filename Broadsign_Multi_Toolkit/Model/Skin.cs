@@ -22,7 +22,6 @@ namespace Broadsign_Multi_Toolkit.Model
         public string Y { get; set; } 
         public string Z { get; set; }
         public string Name { get; set; }
-
         public string Id { get; set; }
     }
 }
